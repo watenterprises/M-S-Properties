@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="container">
                 <div className="footer-content">
                     <div className="footer-brand">
-                        <h3>M S <span>Properties</span></h3>
+                        <h3>Your<span>Logo</span></h3>
                         <p>Your trusted real estate partner in Bangalore. Excellence in property solutions since 2010.</p>
                     </div>
                     <div className="footer-links">
